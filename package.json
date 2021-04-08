@@ -1,0 +1,17 @@
+{
+  "name": "@shenzhongkang/eslint-config-airbnb",
+  "version": "1.0.0",
+  "description": "Airbnb's ESLint config with optional TypeScript support",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShenZhongkang/eslint-config-airbnb.git"
+  },
+  "keywords": ["airbnb", "eslint", "javascript", "typescript", "optional", "pluggable", "base"],
+  "author": "shenzhongkang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShenZhongkang/eslint-config-airbnb/issues"
+  },
+  "homepage": "https://github.com/ShenZhongkang/eslint-config-airbnb#readme"
+}

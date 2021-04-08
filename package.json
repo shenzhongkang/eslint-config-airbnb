@@ -7,11 +7,26 @@
     "type": "git",
     "url": "git+https://github.com/ShenZhongkang/eslint-config-airbnb.git"
   },
-  "keywords": ["airbnb", "eslint", "javascript", "typescript", "optional", "pluggable", "base"],
+  "keywords": [
+    "airbnb",
+    "eslint",
+    "javascript",
+    "typescript",
+    "optional",
+    "pluggable",
+    "base"
+  ],
   "author": "shenzhongkang",
   "license": "MIT",
+  "engines": {
+    "node": ">=10.0.0"
+  },
   "bugs": {
     "url": "https://github.com/ShenZhongkang/eslint-config-airbnb/issues"
   },
-  "homepage": "https://github.com/ShenZhongkang/eslint-config-airbnb#readme"
+  "homepage": "https://github.com/ShenZhongkang/eslint-config-airbnb#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-airbnb-typescript": "^12.3.1"
+  }
 }
